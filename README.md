@@ -1,0 +1,2 @@
+# python
+szkolenie z python
